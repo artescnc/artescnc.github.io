@@ -98,8 +98,7 @@ footer{
 <section class="gallery">
     <h2>Nossos Trabalhos</h2>
     <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c">
-    <img src="https://images.unsplash.com/photo-1581091012184-5c0a7f9e4b2b">
-</section>
+    </section>
 
 <section>
     <h2>Atendemos Blumenau e Região</h2>
