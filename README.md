@@ -96,8 +96,8 @@ footer{
 </section>
 
 <section class="gallery">
-    <h2>Nossos Trabalhos</h2>
-    <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c">
+    <h2>Nossos Trabalhos</h2>!
+    [router-cnc](https://github.com/user-attachments/assets/8516ba3e-c6ec-4e02-a55a-cb0e47bb82b4)
     </section>
 
 <section>
