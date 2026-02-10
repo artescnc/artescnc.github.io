@@ -83,7 +83,7 @@ footer{
 </header>
 
 <section class="hero">
-    <h2>Serviço Terceirizado em Corte CNC para Marcenarias</h2><br>
+    <h2>Serviço Terceirizado em Corte CNC ,Corte Laser , Usinagem e Impressão 3D</h2><br>
     <a class="btn" href="https://wa.me/5547999618808" target="_blank">SOLICITAR ORÇAMENTO</a>
 </section>
 
@@ -91,8 +91,8 @@ footer{
     <h2>Por que escolher a Artes CNC?</h2>
     <div>✔ Corte preciso em MDF, Madeira e Acrílico</div>
     <div>✔ Menos desperdício de material</div>
-    <div>✔ Encaixe perfeito para montagem</div>
-    <div>✔ Peças identificadas</div>
+    <div>✔ Precisão e Rapidez </div>
+    <div>✔ Qualidade , Corte limpos e sem rebarba </div>
 </section>
 
 <section class="gallery">
